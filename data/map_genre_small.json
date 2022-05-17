@@ -1,0 +1,165 @@
+{ 
+    "unclassified" : [
+        "new-release",
+        "world-music",
+        "rainy-day",
+        "road-trip",
+        "sad",
+        "happy",
+        "holidays",
+        "children",
+        "kids",
+        "summer",
+        "comedy",
+        "work-out",
+        "party",
+        "turkish",
+        "swedish",
+        "spanish",
+        "malay",
+        "iranian",
+        "indian",
+        "german",
+        "french",
+        "british"
+    ],
+
+    "rock" : [
+        "drum-and-bass", 
+        "guitar", 
+        "psych-rock", 
+        "rock", 
+        "rock-n-roll", 
+        "rockabilly",
+        "j-rock",
+        "hard-rock",
+        "industrial"
+    ],
+
+    "metal": [
+        "black-metal",
+        "death-metal",
+        "grindcore",
+        "metalcore",
+        "heavy-metal",
+        "metal",
+        "metal-misc"
+    ],
+
+    "ambient": [
+        "ambient",
+        "sleep",
+        "chill",
+        "study",
+        "new-age",
+        "piano"
+    ],
+
+    "pop": [
+        "power-pop",
+        "k-pop",
+        "pop",
+        "r-n-b",
+        "party",
+        "cantopop",
+        "indie-pop",
+        "j-idol",
+        "j-pop",
+        "k-pop",
+        "mandopop",
+        "philippines-opm",
+        "pop-film",
+        "synth-pop",
+        "hip-hop",
+        "trip-hop"
+    ],
+
+    "jazz" : [
+        "jazz",
+        "afrobeat",
+        "soul",
+        "funk",
+        "groove",
+        "ska"
+    ],
+
+    "country" : [
+        "honky-tonk",
+        "country",
+        "folk",
+        "bluegrass",
+        "acoustic",
+        "blues",
+        "pagode",
+        "sertanejo"
+    ],
+
+    "latin" : [
+        "salsa",
+        "samba",
+        "latin",
+        "latino",
+        "bossanova",
+        "brazil",
+        "forro",
+        "mpb",
+        "reggae",
+        "reggaeton",
+        "tango"
+    ],
+
+    "musical" : [
+        "show-tune",
+        "disney",
+        "anime",
+        "soundtracks",
+        "movies"
+    ],
+
+    "classical" : [
+        "classical",
+        "opera",
+        "gospel",
+        "romance"
+    ],
+
+    "electronic" : [
+        "j-dance",
+        "dance",
+        "house",
+        "techno",
+        "chicago-house",
+        "breakbeat",
+        "dubstep",
+        "deep-house",
+        "electronic",
+        "garage",
+        "electro",
+        "club",
+        "dancehall",
+        "detroit-techno",
+        "disco",
+        "dub",
+        "edm",
+        "hardstyle",
+        "hardcore",
+        "idm",
+        "minimal-techno",
+        "post-dubstep",
+        "progressive-house",
+        "trance"
+    ],
+
+    "alternative" : [
+        "alternative",
+        "emo",
+        "grunge",
+        "goth",
+        "punk-rock",
+        "punk",
+        "indie",
+        "alt-rock",
+        "singer-songwriter",
+        "songwriter"
+    ]
+}
