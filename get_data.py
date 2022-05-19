@@ -189,7 +189,7 @@ def get_all_tracks(df):
 
     return list_of_track_audio_features
 
-columns = ["playlist_id", "playlist_name" "id", "track_name", "track_explicit",  "track_popularity", "album_name", "album_release_date", "album_release_date_precision",
+columns = ["playlist_id", "playlist_name", "id", "track_name", "track_explicit",  "track_popularity", "album_name", "album_release_date", "album_release_date_precision",
            "artist_name", "audio_avg_pitches", "audio_avg_timbre",
            "audio_acousticness", "audio_danceability", "audio_duration_ms", "audio_energy", "audio_instrumentalness",
            "audio_key_1", "audio_liveness", "audio_loudness", "audio_mode_1", "audio_speechiness", "audio_tempo",
